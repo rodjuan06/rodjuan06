@@ -2,8 +2,10 @@
 <h3 align="center">I'm a Venezuelan living in Brazil currently trying to find my first junior job</h3>
 <h4 align="center">I graduated in IT at IFSul Venâncio Aires</h4>
 
-- I’m currently working on **a Chess game in Java**
+- I'm a native spanish speaker, but also fluent in portuguese and english
 
+- I’m currently working on **a Chess game in Java**
+ 
 - I’m currently learning **Java**
 
 - I'm interested in learning back-end and frameworks such as **Spring Boot**
