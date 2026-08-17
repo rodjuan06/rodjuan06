@@ -40,11 +40,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rodjuan06&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodjuan06&hide_border=true&area=true" width="95%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodjuan06&layout=compact&hide_border=true&langs_count=8" height="165"/>
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=rodjuan06&show_icons=true&title_color=22abf0&icon_color=22abf0&text_color=9f9f9f&bg_color=151515)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=rodjuan06&show_icons=true&title_color=22abf0&icon_color=22abf0&text_color=9f9f9f&bg_color=151515)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
+
 
 ---
 
