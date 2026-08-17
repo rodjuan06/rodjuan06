@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodjuan06&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodjuan06&hide_border=true&area=true" width="50%"/>
 
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=rodjuan06&show_icons=true&title_color=22abf0&icon_color=22abf0&text_color=9f9f9f&bg_color=151515)](https://github.com/stats-organization/github-stats-extended)
 
