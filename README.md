@@ -40,14 +40,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodjuan06&hide_border=true&area=true" width="70%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodjuan06&bg_color=151515&color=9f9f9f&line=22abf0&point=22abf0&area_color=22abf0&area=true&hide_border=true" width="85%"/>
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=rodjuan06&show_icons=true&title_color=22abf0&icon_color=22abf0&text_color=9f9f9f&bg_color=151515)](https://github.com/stats-organization/github-stats-extended)
+<br>
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=rodjuan06&show_icons=true&title_color=22abf0&icon_color=22abf0&text_color=9f9f9f&bg_color=151515)](https://github.com/stats-organization/github-stats-extended)
-
+<table>
+<tr>
+<td valign="middle">
+<img src="https://github-stats-extended.vercel.app/api?username=rodjuan06&show_icons=true&title_color=22abf0&icon_color=22abf0&text_color=9f9f9f&bg_color=151515" width="100%"/>
+</td>
+<td valign="middle">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rodjuan06&layout=compact&title_color=22abf0&icon_color=22abf0&text_color=9f9f9f&bg_color=151515" width="100%"/>
+</td>
+</tr>
+</table>
 </div>
-
 
 ---
 
