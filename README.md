@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**Java & Spring Boot • Backend Development • REST APIs • Databases**
+**Java & Spring Boot • Backend Development • REST APIs • Databases**<br>
 **Git • Docker • Linux • Testing • Software Engineering**
 
 🇪🇸 Spanish — Native · 🇧🇷 Portuguese — Fluent · 🇺🇸 English — Fluent
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodjuan06&bg_color=151515&color=9f9f9f&line=22abf0&point=22abf0&area_color=22abf0&area=true&hide_border=true" width="85%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodjuan06&theme=github_dark" alt="Juan's GitHub contribution graph" width="85%"/>
 
 <br>
 
