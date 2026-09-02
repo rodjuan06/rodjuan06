@@ -47,10 +47,10 @@
 <table>
 <tr>
 <td valign="middle">
-<img src="https://github-stats-extended.vercel.app/api?username=rodjuan06&show_icons=true&title_color=22abf0&icon_color=22abf0&text_color=9f9f9f&bg_color=151515" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rodjuan06&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" width="100%"/>
 </td>
 <td valign="middle">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rodjuan06&layout=compact&title_color=22abf0&icon_color=22abf0&text_color=9f9f9f&bg_color=151515" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodjuan06&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" width="100%"/>
 </td>
 </tr>
 </table>
